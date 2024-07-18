@@ -1,1 +1,2 @@
 # pokidex-app
+The Simple Pokédex app is a React-based web application that allows users to explore and display information about Pokémon. The app leverages the PokéAPI to fetch data and display it in a user-friendly interface. Users can specify the number of Pokémon they want to view and filter them by type (e.g., Water, Fire). The app features a clean and responsive design, with vibrant colors and interactive elements to enhance the user experience.
